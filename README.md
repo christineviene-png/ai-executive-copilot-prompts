@@ -43,3 +43,6 @@ Supports executive travel planning.
 ## Additional Documentation
 
 See also: [AI Copilot Operating Model](copilot-operating-model.md)
+
+Product Concept Demo:
+[Executive Copilot Demo](executive-copilot-demo.md)
