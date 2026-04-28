@@ -39,3 +39,7 @@ Review this itinerary and identify potential risks, dependencies, and backup opt
 
 Use Case:
 Supports executive travel planning.
+
+## Additional Documentation
+
+See also: [AI Copilot Operating Model](copilot-operating-model.md)
