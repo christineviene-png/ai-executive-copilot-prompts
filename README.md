@@ -1,4 +1,4 @@
-# AI Executive Copilot Prompts
+# AI executive-copilot-ai
 
 Collection of prompt systems designed to use AI as an operational copilot.
 
