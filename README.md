@@ -1,6 +1,6 @@
-# AI executive-copilot-ai
+# AI Executive Copilot Prompts
 
-Concept repository exploring AI-assisted workflows as an executive operations copilot.
+Collection of prompt systems designed to use AI as an operational copilot.
 
 ## Prompt 1: Executive Brief Generator
 Prompt:
